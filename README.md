@@ -12,4 +12,5 @@ Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com
 Problems have solved:
 - Invalid Tweets
 - Big Countries
+- Product Sales Analysis I
 
