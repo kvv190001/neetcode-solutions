@@ -14,4 +14,4 @@ Problems have solved:
 - Invalid Tweets
 - Big Countries
 - Product Sales Analysis I
-
+- Managers with at Least 5 Direct Reports
