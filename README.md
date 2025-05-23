@@ -6,6 +6,7 @@ Problems have solved:
 - Contains Duplicate (java, python)
 - Group Anagrams (java, python)
 - Top K Frequent Elements (python)
+- Two Integer Sum II (python)
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
