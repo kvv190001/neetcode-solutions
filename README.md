@@ -8,7 +8,8 @@ Problems have solved:
 - Top K Frequent Elements (python)
 - Two Integer Sum II (python)
 - Evaluate Reverse Polish Notation (python)
-- Search a 2D Matrix
+- Search a 2D Matrix (python)
+- Permutation in String (python)
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
@@ -19,3 +20,4 @@ Problems have solved:
 - Managers with at Least 5 Direct Reports
 - Confirmation Rate
 - Not Boring Movies
+- Project Employees I
