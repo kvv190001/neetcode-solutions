@@ -27,3 +27,4 @@ Problems have solved:
 - Not Boring Movies
 - Project Employees I
 - Second Highest Salary
+- 550. Game Play Analysis IV
