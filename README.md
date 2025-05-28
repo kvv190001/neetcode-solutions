@@ -10,6 +10,8 @@ Problems have solved:
 - Evaluate Reverse Polish Notation (python)
 - Search a 2D Matrix (python)
 - Permutation in String (python)
+- Maximum Subarray (python)
+- 116. Populating Next Right Pointers in Each Node
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
@@ -21,3 +23,4 @@ Problems have solved:
 - Confirmation Rate
 - Not Boring Movies
 - Project Employees I
+- Second Highest Salary
