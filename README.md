@@ -13,7 +13,8 @@ Problems have solved:
 - Maximum Subarray (python)
 - 116. Populating Next Right Pointers in Each Node
 - 151. Reverse Words in a String
-206. Reverse Linked List
+- 206. Reverse Linked List
+- 125. Valid Palindrome
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
