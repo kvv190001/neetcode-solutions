@@ -29,3 +29,4 @@ Problems have solved:
 - Project Employees I
 - Second Highest Salary
 - 550. Game Play Analysis IV
+- 1378. Replace Employee ID With The Unique Identifier
