@@ -17,6 +17,7 @@ Problems have solved:
 - 125. Valid Palindrome
 - 238. Product of Array Except Self
 - 235. Lowest Common Ancestor of a Binary Search Tree
+- 102. Binary Tree Level Order Traversal
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
