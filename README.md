@@ -16,6 +16,7 @@ Problems have solved:
 - 206. Reverse Linked List
 - 125. Valid Palindrome
 - 238. Product of Array Except Self
+- 235. Lowest Common Ancestor of a Binary Search Tree
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
