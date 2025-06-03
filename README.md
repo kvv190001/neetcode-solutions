@@ -32,3 +32,4 @@ Problems have solved:
 - 1378. Replace Employee ID With The Unique Identifier
 - 1633. Percentage of Users Attended a Contest
 - 1070. Product Sales Analysis III
+- 1045. Customers Who Bought All Products
