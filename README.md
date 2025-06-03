@@ -31,3 +31,4 @@ Problems have solved:
 - 550. Game Play Analysis IV
 - 1378. Replace Employee ID With The Unique Identifier
 - 1633. Percentage of Users Attended a Contest
+- 1070. Product Sales Analysis III
