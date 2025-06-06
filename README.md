@@ -35,3 +35,4 @@ Problems have solved:
 - 1633. Percentage of Users Attended a Contest
 - 1070. Product Sales Analysis III
 - 1045. Customers Who Bought All Products
+- 1193. Monthly Transactions I
