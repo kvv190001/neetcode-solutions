@@ -38,3 +38,4 @@ Problems have solved:
 - 1045. Customers Who Bought All Products
 - 1193. Monthly Transactions I
 - 1174. Immediate Food Delivery II
+- 180. Consecutive Numbers
