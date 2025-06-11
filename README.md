@@ -39,3 +39,4 @@ Problems have solved:
 - 1193. Monthly Transactions I
 - 1174. Immediate Food Delivery II
 - 180. Consecutive Numbers
+- 1164. Product Price at a Given Date
