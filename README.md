@@ -40,3 +40,4 @@ Problems have solved:
 - 1174. Immediate Food Delivery II
 - 180. Consecutive Numbers
 - 1164. Product Price at a Given Date
+- 1204. Last Person to Fit in the Bus
