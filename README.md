@@ -20,6 +20,7 @@ Problems have solved:
 - 102. Binary Tree Level Order Traversal
 - 128. Longest Consecutive Sequence
 - 15. 3Sum
+- 22. Generate Parentheses
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
