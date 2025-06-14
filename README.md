@@ -19,6 +19,7 @@ Problems have solved:
 - 235. Lowest Common Ancestor of a Binary Search Tree
 - 102. Binary Tree Level Order Traversal
 - 128. Longest Consecutive Sequence
+- 15. 3Sum
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
@@ -42,3 +43,4 @@ Problems have solved:
 - 1164. Product Price at a Given Date
 - 1204. Last Person to Fit in the Bus
 - 1907. Count Salary Categories
+- 626. Exchange Seats
