@@ -11,16 +11,17 @@ Problems have solved:
 - Search a 2D Matrix (python)
 - Permutation in String (python)
 - Maximum Subarray (python)
-- 116. Populating Next Right Pointers in Each Node
-- 151. Reverse Words in a String
-- 206. Reverse Linked List
-- 125. Valid Palindrome
-- 238. Product of Array Except Self
-- 235. Lowest Common Ancestor of a Binary Search Tree
-- 102. Binary Tree Level Order Traversal
-- 128. Longest Consecutive Sequence
-- 15. 3Sum
-- 22. Generate Parentheses
+- 116. Populating Next Right Pointers in Each Node (python)
+- 151. Reverse Words in a String (python)
+- 206. Reverse Linked List (python)
+- 125. Valid Palindrome (python)
+- 238. Product of Array Except Self (python)
+- 235. Lowest Common Ancestor of a Binary Search Tree (python)
+- 102. Binary Tree Level Order Traversal (python)
+- 128. Longest Consecutive Sequence (python)
+- 15. 3Sum (python)
+- 22. Generate Parentheses (python)
+- 242. Valid Anagram (java)
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
