@@ -14,7 +14,7 @@ Problems have solved:
 - 116. Populating Next Right Pointers in Each Node (python)
 - 151. Reverse Words in a String (python)
 - 206. Reverse Linked List (python)
-- 125. Valid Palindrome (python)
+- 125. Valid Palindrome (python, java)
 - 238. Product of Array Except Self (python)
 - 235. Lowest Common Ancestor of a Binary Search Tree (python)
 - 102. Binary Tree Level Order Traversal (python)
