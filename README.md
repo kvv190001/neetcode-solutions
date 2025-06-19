@@ -23,7 +23,8 @@ Problems have solved:
 - 22. Generate Parentheses (python)
 - 242. Valid Anagram (java)
 - 1. Two Sum (java)
-- 20. Valid Parentheses
+- 20. Valid Parentheses (java)
+- 121. Best Time to Buy and Sell Stock (java)
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
