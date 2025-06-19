@@ -49,3 +49,4 @@ Problems have solved:
 - 1204. Last Person to Fit in the Bus
 - 1907. Count Salary Categories
 - 626. Exchange Seats
+- 1341. Movie Rating
