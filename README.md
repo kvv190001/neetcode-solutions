@@ -26,6 +26,7 @@ Problems have solved:
 - 20. Valid Parentheses (java)
 - 121. Best Time to Buy and Sell Stock (java)
 - 11. Container With Most Water (java)
+- 704. Binary Search (java)
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
