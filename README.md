@@ -29,6 +29,7 @@ Problems have solved:
 - 704. Binary Search (java)
 - 739. Daily Temperatures (java)
 - 853. Car Fleet (java)
+- 875. Koko Eating Bananas (java)
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
