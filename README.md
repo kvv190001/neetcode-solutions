@@ -55,3 +55,4 @@ Problems have solved:
 - 1907. Count Salary Categories
 - 626. Exchange Seats
 - 1341. Movie Rating
+- 1581. Customer Who Visited but Did Not Make Any Transactions
