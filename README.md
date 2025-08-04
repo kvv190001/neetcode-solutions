@@ -60,3 +60,4 @@ Problems have solved:
 - 626. Exchange Seats
 - 1341. Movie Rating
 - 1581. Customer Who Visited but Did Not Make Any Transactions
+- 1321. Restaurant Growth
