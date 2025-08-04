@@ -32,6 +32,7 @@ Problems have solved:
 - 875. Koko Eating Bananas (java)
 - 21. Merge Two Sorted Lists (java)
 - 141. Linked List Cycle (java)
+- 199. Binary Tree Right Side View (java)
 
 Solutions for SQL problems in Leetcode's SQL 50 Study Plan: https://leetcode.com/studyplan/top-sql-50/
 
